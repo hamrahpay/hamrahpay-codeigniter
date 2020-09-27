@@ -1,4 +1,4 @@
-#[Hamrahpay](https://hamrahpay.com) CodeIgniter Library
+# [Hamrahpay](https://hamrahpay.com) CodeIgniter Library
 
 Codeigniter 4.x library for Hamrahpay Online Payment Gateway
 
